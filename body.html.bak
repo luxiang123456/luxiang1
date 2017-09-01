@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <link  rel="stylesheet" href="body.css"/>
+ </head>
+ <body>
+     <div class="heada">
+	     <div class="heada-a">
+		     <div class="heada-a1">
+				 <a href="#">中国大陆</a>
+				 <img src="img/dropdown.png"/>
+				 <div class="heada-a1-b"></div>
+				 <div class="heada-a1-a">
+				     <ul>
+						 <li><a href="#">全球</a></li>
+						 <li><a href="#">中国</a></li>
+						 <li><a href="#">美国</a></li>
+						 <li><a href="#">英国</a></li>
+						 <li><a href="#">加拿大</a></li>
+						 <li><a href="#">澳大利亚</a></li>
+						 <li><a href="#">朝鲜</a></li>
+						 <li><a href="#">尼日利亚</a></li>
+					 </ul>
+				 </div>
+			 </div>
+			 <div class="heada-a2">
+				 <a href="#">亲，请登录</a>
+				 <a href="#">免费注册</a>
+				 <a href="#">手机淘宝</a>
+		     </div>
+			 <div class="heada-a3">
+			     <ul>
+				     <li class="heada-a3-1"><a href="#">我的淘宝</a> <img src="img/dropdown.png"/></li>
+					 <li class="heada-a3-2"><img src="img/cart.png"><a href="#">购物车</a><img src="img/dropdown.png"/><li>
+					 <li class="heada-a3-3"><img src="img/collect.png"/><a href="#">收藏夹</a><img src="img/dropdown.png"/></li>
+					 <li class="heada-a3-4"><a>商品分类</a>|</li>
+					 <li class="heada-a3-1"><a href="#">卖家中心</a> <img src="img/dropdown.png"/></li>
+					 <li class="heada-a3-1"><a href="#">联系客服</a> <img src="img/dropdown.png"/></li>
+					 <li class="heada-a3-1"><a href="#">网址导航</a> <img src="img/dropdown.png"/></li>
+				 </ul>
+			 </div>
+		 </div>
+	 </div>
+	 <div class="search">
+	     <div class="search1">
+		      <div class="search1-a"><img src="img/logo.png"/></div>
+		 </div>
+	 </div>
+     <div class="Large-background-color"></div>
+ </body>
+</html>

@@ -1,0 +1,134 @@
+*{margin:0;padding:0;}
+/*-----中部的背景色------*/
+.Large-background-color{
+	 width:100%;
+	 background:#f1f1f1;
+}
+/*-----头部-----*/
+.heada{
+     width:100%;
+	 height:45px;
+	 background:#f5f5f5;
+	 border-bottom:1px solid #eeeeee;
+}
+.heada-a{
+     width:1200px;
+	 height:45px;
+	 margin:0 auto;
+}
+.heada-a1{
+     width:100px;
+	 height:45px;
+	 position:relative;
+	 float:left;
+}
+.heada-a1>a{
+     color:#3c3c3c;
+	 font-size:12px;
+	 line-height:45px;
+	 margin-left:10px;
+	 text-decoration:none;
+}
+.heada-a1-a{
+     width:200px;
+	 height:300px;
+	 border:1px solid #f5f5f5;
+	 display:none;
+}
+.heada-a1-b{
+     width:100px;
+	 height:2px;
+	 background:#fff;
+	 position:absolute;
+	 top:45px;
+	 left:0px;
+	 display:none;
+}
+.heada-a1-a>ul>li{
+     width:198px;
+	 height:37px;
+	 list-style:none;
+     margin-left:20px;
+}
+.heada-a1-a>ul>li>a{
+     text-decoration:none;
+	 color:#3c3c3c;
+}
+/*---头部的hover效果---*/
+.heada-a1:hover{
+     background:#fff;
+}
+.heada-a1:hover .heada-a1-b, .heada-a1:hover .heada-a1-a{
+     display:block;
+}
+.heada-a2{
+     width:200px;
+	 height:45px;
+	 float:left;
+	 font-size:12px;
+	 line-height:45px;
+}
+.heada-a2>a{
+     color:#6c6c6c;
+	 text-decoration:none;
+	 margin-left:10px;
+}
+.heada-a2>a:hover{
+     color:red;
+}
+.heada-a3{
+     width:650px;
+	 height:45px;
+	 float:right;
+}
+.heada-a3>ul>li{
+     float:left;
+	 list-style:none;
+}
+.heada-a3>ul>li>a{
+     text-decoration:none;
+	 color:#9c9c9c;
+	 font-size:12px;
+	 margin-left:10px;
+}
+.heada-a3>ul>li>a:hover{
+     color:red;
+}
+.heada-a3-1{
+     margin-left:15px;
+	 line-height:45px;
+}
+.heada-a3-2{
+     margin-left:10px;
+	 line-height:45px;
+}
+.heada-a3-3{
+     margin-left:10px;
+	 line-height:45px;
+}
+.heada-a3-4{
+     margin-left:10px;
+	 line-height:45px;
+}
+/*-------------------头部完成》》>>>现在到搜索栏--*/
+.search{
+     width:100%;
+	 height:166px;
+	 border:1px solid red;
+}
+.search1{
+     width:1200px;
+	 height:166px;
+	 margin:0 auto;
+	 border: 1px solid yellow;
+}
+.search1-a{
+     width:155px;
+	 height:80px;
+	 background-image:url(img/logo.png);
+	 background-size:100% 100%;
+	 margin-top:30px;
+}
+
+
+
